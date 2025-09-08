@@ -1,6 +1,3 @@
-# Alpha: AI Frontend Engineer
+# Dualite: Your AI Engineer
 
-This repository contains
-- examples built with alpha
-- documentation
-- issues that you create from the product itself.
+You can raise issues in this repository that you've faced with Dualite.
